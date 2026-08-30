@@ -1,0 +1,70 @@
+
+npm install -g netlify-cli
+netlify login 
+cd your-project-folder
+netlify deploy
+netlify deploy --prod
+
+Project ke root mein netlify.toml file bana kar ye likhein:
+
+[build]
+  command = "npm run build"
+
+netlify --version
+
+
+netlify deploy --prod
+
+netlify unlink
+
+netlify init
+
+netlify link
+
+netlify deploy --create-site
+
+=======
+npm install -g netlify-cli
+netlify login 
+cd your-project-folder
+netlify deploy
+netlify deploy --prod
+
+Project ke root mein netlify.toml file bana kar ye likhein:
+
+[build]
+  command = "npm run build"
+
+netlify --version
+
+
+netlify deploy --prod
+
+netlify unlink
+
+netlify init
+
+netlify link
+
+netlify deploy --create-site
+
+>>>>>>> b7dc1f2 (Update project)
+netlify deploy --prod
+
+
+
+netlify deploy --build --debug
+
+agr project ko run krna hai to node.js ka 22 version download kr k install kr k deploy kre project ko
+
+
+
+
+agr redeploy krna ho to
+Build logs:         https://app.netlify.com/projects/finova-calc/deploys/6a5728938d7b37ddaa4d0b9a
+Function logs:      https://app.netlify.com/projects/finova-calc/logs/functions?scope=deploy:6a5728938d7b37ddaa4d0b9a
+Edge function Logs: https://app.netlify.com/projects/finova-calc/logs/edge-functions?scope=deployid:6a5728938d7b37ddaa4d0b9a
+
+
+https://app.netlify.com/projects/finova-calc/deploys/6a5728938d7b37ddaa4d0b9a is ko copy kr k url paste kre aur netlify mein ja k publsh kre to website deploy ho jae gi
+

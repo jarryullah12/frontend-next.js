@@ -1,0 +1,11 @@
+node_modules/
+.next/
+coverage/
+.DS_Store
+*.log
+
+!.env.example
+
+# Local Netlify folder
+.netlify
+*.zip

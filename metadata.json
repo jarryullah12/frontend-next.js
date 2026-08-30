@@ -1,0 +1,6 @@
+{
+  "name": "FinovaCalc",
+  "description": "Professional-grade financial tools to help you make smarter decisions. Calculate loans, plan investments, and secure your future — all for free.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
